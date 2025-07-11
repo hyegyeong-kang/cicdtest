@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app-container
-        image: 192.168.56.200/cicdtest/jenkins-test:202507110952
+        image: 192.168.56.200/cicdtest/jenkins-test:202507111159
         ports:
         - containerPort: 80
       imagePullSecrets:
